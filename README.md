@@ -2,7 +2,7 @@ Aplikasi Game Tic-Tac-Toe Sederhana dengan Java Swing, Login, dan Statistik
 
 Informasi Mahasiswa
 Nama: Priska Fiantika Widyatama
-NIM: 5026251170
+NRP: 5026251170
 Kelas: A
 
 Deskripsi Project
