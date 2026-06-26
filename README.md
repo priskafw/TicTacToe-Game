@@ -37,6 +37,7 @@ Cara Menjalankan Program
 3. Download file mysql-connector-j.jar
 4. Tambahkan file .jar ke folder lib, lalu klik kanan dan pilih Add as Library.
 5. Buka DatabaseManager.java, isi URL, username, dan password sesuai konfigurasi MySQL yang sudah dibuat sebelumnya
+
 6. Pastikan MySQL sudah berjalan.
 7. Jalankan Main.java.
 8. Login menggunakan username: student1 dan password: 12345.
@@ -55,11 +56,10 @@ Penjelasan Class
 - TopScorersFrame: Tampilan window yang menampilkan 5 pemain dengan poin tertinggi dalam bentuk tabel menggunakan JTable. Data diambil langsung dari database dan diurutkan berdasarkan poin tertinggi.
 
 Screenshots
-[Tambahkan screenshot login window di sini]
+<img width="315" height="229" alt="Login Frame" src="https://github.com/user-attachments/assets/25933030-f857-45f8-9f57-f28fd2a7171d" />
+<img width="307" height="371" alt="Game" src="https://github.com/user-attachments/assets/27f03aff-070a-48cd-9728-3609b5bd9f76" />
+<img width="352" height="185" alt="5 Top Score Statistics" src="https://github.com/user-attachments/assets/f95d7276-a1fe-4534-abde-170be790e3d1" />
 
-[Tambahkan screenshot game window di sini]
-
-[Tambahkan screenshot top scorers window di sini]
 
 Link Video
-YouTube: [ISI LINK YOUTUBE KAMU]
+YouTube: https://youtu.be/xG6nTJNBd1E?si=Ukz9Rplhqzi002z4 
