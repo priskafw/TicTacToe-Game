@@ -23,20 +23,20 @@ Nama database: game_project
 Nama tabel: players
 
 Kolom tabel:
-- id — nomor unik setiap pemain (auto increment)
-- username — nama pengguna untuk login
-- password — kata sandi untuk login
-- wins — jumlah kemenangan
-- losses — jumlah kekalahan
-- draws — jumlah seri
-- score — total poin (menang +10, seri +3, kalah +0)
+- id: nomor unik setiap pemain (auto increment)
+- username: nama pengguna untuk login
+- password: kata sandi untuk login
+- wins: jumlah kemenangan
+- losses: jumlah kekalahan
+- draws: jumlah seri
+- score: total poin (menang +10, seri +3, kalah +0)
 
 Cara Menjalankan Program
-1. Buat database dengan menjalankan file schema.sql di MySQL.
+1. Buat database di MySQL.
 2. Buka project di IntelliJ IDEA.
-3. Download file mysql-connector-j.jar dari https://dev.mysql.com/downloads/connector/j/
+3. Download file mysql-connector-j.jar
 4. Tambahkan file .jar ke folder lib, lalu klik kanan dan pilih Add as Library.
-5. Buka DatabaseManager.java, isi URL, username, dan password sesuai konfigurasi MySQL kamu.
+5. Buka DatabaseManager.java, isi URL, username, dan password sesuai konfigurasi MySQL yang sudah dibuat sebelumnya
 6. Pastikan MySQL sudah berjalan.
 7. Jalankan Main.java.
 8. Login menggunakan username: student1 dan password: 12345.
